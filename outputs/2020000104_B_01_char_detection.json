@@ -1,0 +1,5533 @@
+{
+  "image": "2020000104_B_01",
+  "total_grids": 325,
+  "detected_chars": 325,
+  "method": "SAM_box_prompt",
+  "chars": [
+    {
+      "grid_id": 0,
+      "grid_bbox": {
+        "x": 550.0,
+        "y": 970.0,
+        "width": 45.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 559,
+        "y": 976,
+        "width": 35,
+        "height": 45
+      },
+      "char_area": 1300,
+      "confidence": 0.8877122402191162
+    },
+    {
+      "grid_id": 1,
+      "grid_bbox": {
+        "x": 184.0,
+        "y": 897.0,
+        "width": 48.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 189,
+        "y": 907,
+        "width": 46,
+        "height": 43
+      },
+      "char_area": 1667,
+      "confidence": 0.8613979816436768
+    },
+    {
+      "grid_id": 2,
+      "grid_bbox": {
+        "x": 488.0,
+        "y": 896.0,
+        "width": 57.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 496,
+        "y": 901,
+        "width": 42,
+        "height": 46
+      },
+      "char_area": 1416,
+      "confidence": 0.8063504695892334
+    },
+    {
+      "grid_id": 3,
+      "grid_bbox": {
+        "x": 490.0,
+        "y": 971.0,
+        "width": 56.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 490,
+        "y": 984,
+        "width": 46,
+        "height": 39
+      },
+      "char_area": 1593,
+      "confidence": 0.8123946189880371
+    },
+    {
+      "grid_id": 4,
+      "grid_bbox": {
+        "x": 437.0,
+        "y": 896.0,
+        "width": 47.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 440,
+        "y": 902,
+        "width": 40,
+        "height": 47
+      },
+      "char_area": 1393,
+      "confidence": 0.8606285452842712
+    },
+    {
+      "grid_id": 5,
+      "grid_bbox": {
+        "x": 439.0,
+        "y": 971.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 441,
+        "y": 984,
+        "width": 40,
+        "height": 40
+      },
+      "char_area": 1366,
+      "confidence": 0.8721194863319397
+    },
+    {
+      "grid_id": 6,
+      "grid_bbox": {
+        "x": 597.0,
+        "y": 970.0,
+        "width": 52.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 610,
+        "y": 976,
+        "width": 33,
+        "height": 45
+      },
+      "char_area": 1255,
+      "confidence": 0.840479850769043
+    },
+    {
+      "grid_id": 7,
+      "grid_bbox": {
+        "x": 287.0,
+        "y": 974.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 292,
+        "y": 976,
+        "width": 35,
+        "height": 48
+      },
+      "char_area": 1309,
+      "confidence": 0.8699550628662109
+    },
+    {
+      "grid_id": 8,
+      "grid_bbox": {
+        "x": 288.0,
+        "y": 897.0,
+        "width": 46.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 295,
+        "y": 910,
+        "width": 31,
+        "height": 40
+      },
+      "char_area": 1039,
+      "confidence": 0.807227611541748
+    },
+    {
+      "grid_id": 9,
+      "grid_bbox": {
+        "x": 134.0,
+        "y": 676.0,
+        "width": 45.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 143,
+        "y": 685,
+        "width": 32,
+        "height": 40
+      },
+      "char_area": 1093,
+      "confidence": 0.8887559771537781
+    },
+    {
+      "grid_id": 10,
+      "grid_bbox": {
+        "x": 388.0,
+        "y": 896.0,
+        "width": 47.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 388,
+        "y": 899,
+        "width": 47,
+        "height": 48
+      },
+      "char_area": 2177,
+      "confidence": 0.9260908961296082
+    },
+    {
+      "grid_id": 11,
+      "grid_bbox": {
+        "x": 237.0,
+        "y": 897.0,
+        "width": 46.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 245,
+        "y": 902,
+        "width": 37,
+        "height": 47
+      },
+      "char_area": 1406,
+      "confidence": 0.8914652466773987
+    },
+    {
+      "grid_id": 12,
+      "grid_bbox": {
+        "x": 136.0,
+        "y": 898.0,
+        "width": 44.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 139,
+        "y": 903,
+        "width": 37,
+        "height": 48
+      },
+      "char_area": 1272,
+      "confidence": 0.8377763032913208
+    },
+    {
+      "grid_id": 13,
+      "grid_bbox": {
+        "x": 547.0,
+        "y": 895.0,
+        "width": 48.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 551,
+        "y": 903,
+        "width": 39,
+        "height": 45
+      },
+      "char_area": 1518,
+      "confidence": 0.842820405960083
+    },
+    {
+      "grid_id": 14,
+      "grid_bbox": {
+        "x": 387.0,
+        "y": 674.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 388,
+        "y": 678,
+        "width": 35,
+        "height": 46
+      },
+      "char_area": 1370,
+      "confidence": 0.8800108432769775
+    },
+    {
+      "grid_id": 15,
+      "grid_bbox": {
+        "x": 389.0,
+        "y": 971.0,
+        "width": 46.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 398,
+        "y": 976,
+        "width": 35,
+        "height": 46
+      },
+      "char_area": 1267,
+      "confidence": 0.8948942422866821
+    },
+    {
+      "grid_id": 16,
+      "grid_bbox": {
+        "x": 550.0,
+        "y": 673.0,
+        "width": 44.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 548,
+        "y": 673,
+        "width": 48,
+        "height": 49
+      },
+      "char_area": 2417,
+      "confidence": 0.9599833488464355
+    },
+    {
+      "grid_id": 17,
+      "grid_bbox": {
+        "x": 184.0,
+        "y": 826.0,
+        "width": 47.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 185,
+        "y": 824,
+        "width": 49,
+        "height": 51
+      },
+      "char_area": 2451,
+      "confidence": 0.9247100949287415
+    },
+    {
+      "grid_id": 18,
+      "grid_bbox": {
+        "x": 286.0,
+        "y": 675.0,
+        "width": 47.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 289,
+        "y": 680,
+        "width": 41,
+        "height": 45
+      },
+      "char_area": 1479,
+      "confidence": 0.8854244947433472
+    },
+    {
+      "grid_id": 19,
+      "grid_bbox": {
+        "x": 237.0,
+        "y": 973.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 244,
+        "y": 981,
+        "width": 32,
+        "height": 42
+      },
+      "char_area": 1253,
+      "confidence": 0.8578961491584778
+    },
+    {
+      "grid_id": 20,
+      "grid_bbox": {
+        "x": 483.0,
+        "y": 370.0,
+        "width": 58.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 482,
+        "y": 372,
+        "width": 62,
+        "height": 50
+      },
+      "char_area": 3052,
+      "confidence": 0.8900843858718872
+    },
+    {
+      "grid_id": 21,
+      "grid_bbox": {
+        "x": 235.0,
+        "y": 675.0,
+        "width": 47.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 243,
+        "y": 682,
+        "width": 35,
+        "height": 42
+      },
+      "char_area": 1238,
+      "confidence": 0.8064801692962646
+    },
+    {
+      "grid_id": 22,
+      "grid_bbox": {
+        "x": 438.0,
+        "y": 674.0,
+        "width": 45.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 444,
+        "y": 683,
+        "width": 36,
+        "height": 41
+      },
+      "char_area": 1137,
+      "confidence": 0.7955647706985474
+    },
+    {
+      "grid_id": 23,
+      "grid_bbox": {
+        "x": 599.0,
+        "y": 673.0,
+        "width": 46.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 599,
+        "y": 673,
+        "width": 48,
+        "height": 49
+      },
+      "char_area": 2384,
+      "confidence": 0.9526749849319458
+    },
+    {
+      "grid_id": 24,
+      "grid_bbox": {
+        "x": 488.0,
+        "y": 673.0,
+        "width": 57.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 488,
+        "y": 673,
+        "width": 58,
+        "height": 50
+      },
+      "char_area": 2762,
+      "confidence": 0.9264609813690186
+    },
+    {
+      "grid_id": 25,
+      "grid_bbox": {
+        "x": 388.0,
+        "y": 824.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 391,
+        "y": 831,
+        "width": 42,
+        "height": 41
+      },
+      "char_area": 1409,
+      "confidence": 0.8827164173126221
+    },
+    {
+      "grid_id": 26,
+      "grid_bbox": {
+        "x": 131.0,
+        "y": 372.0,
+        "width": 45.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 132,
+        "y": 375,
+        "width": 46,
+        "height": 48
+      },
+      "char_area": 2288,
+      "confidence": 0.9461082220077515
+    },
+    {
+      "grid_id": 27,
+      "grid_bbox": {
+        "x": 288.0,
+        "y": 824.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 297,
+        "y": 829,
+        "width": 30,
+        "height": 43
+      },
+      "char_area": 1090,
+      "confidence": 0.8356984853744507
+    },
+    {
+      "grid_id": 28,
+      "grid_bbox": {
+        "x": 543.0,
+        "y": 445.0,
+        "width": 51.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 545,
+        "y": 451,
+        "width": 51,
+        "height": 45
+      },
+      "char_area": 1980,
+      "confidence": 0.9041160941123962
+    },
+    {
+      "grid_id": 29,
+      "grid_bbox": {
+        "x": 548.0,
+        "y": 599.0,
+        "width": 46.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 543,
+        "y": 597,
+        "width": 53,
+        "height": 51
+      },
+      "char_area": 2440,
+      "confidence": 0.7731594443321228
+    },
+    {
+      "grid_id": 30,
+      "grid_bbox": {
+        "x": 599.0,
+        "y": 598.0,
+        "width": 45.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 609,
+        "y": 605,
+        "width": 33,
+        "height": 43
+      },
+      "char_area": 1126,
+      "confidence": 0.8898591995239258
+    },
+    {
+      "grid_id": 31,
+      "grid_bbox": {
+        "x": 600.0,
+        "y": 895.0,
+        "width": 48.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 604,
+        "y": 904,
+        "width": 45,
+        "height": 44
+      },
+      "char_area": 1714,
+      "confidence": 0.9024648666381836
+    },
+    {
+      "grid_id": 32,
+      "grid_bbox": {
+        "x": 439.0,
+        "y": 824.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 446,
+        "y": 824,
+        "width": 36,
+        "height": 50
+      },
+      "char_area": 1287,
+      "confidence": 0.8938406705856323
+    },
+    {
+      "grid_id": 33,
+      "grid_bbox": {
+        "x": 178.0,
+        "y": 373.0,
+        "width": 50.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 181,
+        "y": 374,
+        "width": 48,
+        "height": 49
+      },
+      "char_area": 2384,
+      "confidence": 0.9527997374534607
+    },
+    {
+      "grid_id": 34,
+      "grid_bbox": {
+        "x": 183.0,
+        "y": 675.0,
+        "width": 47.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 185,
+        "y": 681,
+        "width": 45,
+        "height": 45
+      },
+      "char_area": 1814,
+      "confidence": 0.9012292623519897
+    },
+    {
+      "grid_id": 35,
+      "grid_bbox": {
+        "x": 489.0,
+        "y": 824.0,
+        "width": 55.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 495,
+        "y": 828,
+        "width": 37,
+        "height": 43
+      },
+      "char_area": 1118,
+      "confidence": 0.844275951385498
+    },
+    {
+      "grid_id": 36,
+      "grid_bbox": {
+        "x": 137.0,
+        "y": 972.0,
+        "width": 44.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 144,
+        "y": 978,
+        "width": 39,
+        "height": 46
+      },
+      "char_area": 1301,
+      "confidence": 0.8504195213317871
+    },
+    {
+      "grid_id": 37,
+      "grid_bbox": {
+        "x": 336.0,
+        "y": 674.0,
+        "width": 47.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 341,
+        "y": 679,
+        "width": 33,
+        "height": 46
+      },
+      "char_area": 1331,
+      "confidence": 0.901451587677002
+    },
+    {
+      "grid_id": 38,
+      "grid_bbox": {
+        "x": 135.0,
+        "y": 825.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 141,
+        "y": 831,
+        "width": 34,
+        "height": 45
+      },
+      "char_area": 1260,
+      "confidence": 0.8926237225532532
+    },
+    {
+      "grid_id": 39,
+      "grid_bbox": {
+        "x": 336.0,
+        "y": 973.0,
+        "width": 49.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 345,
+        "y": 977,
+        "width": 36,
+        "height": 47
+      },
+      "char_area": 1301,
+      "confidence": 0.8336767554283142
+    },
+    {
+      "grid_id": 40,
+      "grid_bbox": {
+        "x": 387.0,
+        "y": 599.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 387,
+        "y": 610,
+        "width": 40,
+        "height": 40
+      },
+      "char_area": 1301,
+      "confidence": 0.9060639142990112
+    },
+    {
+      "grid_id": 41,
+      "grid_bbox": {
+        "x": 133.0,
+        "y": 601.0,
+        "width": 45.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 138,
+        "y": 606,
+        "width": 34,
+        "height": 45
+      },
+      "char_area": 1253,
+      "confidence": 0.8812595009803772
+    },
+    {
+      "grid_id": 42,
+      "grid_bbox": {
+        "x": 234.0,
+        "y": 525.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 237,
+        "y": 532,
+        "width": 37,
+        "height": 40
+      },
+      "char_area": 976,
+      "confidence": 0.8337974548339844
+    },
+    {
+      "grid_id": 43,
+      "grid_bbox": {
+        "x": 338.0,
+        "y": 824.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 343,
+        "y": 830,
+        "width": 44,
+        "height": 40
+      },
+      "char_area": 1392,
+      "confidence": 0.8770991563796997
+    },
+    {
+      "grid_id": 44,
+      "grid_bbox": {
+        "x": 486.0,
+        "y": 445.0,
+        "width": 55.0,
+        "height": 52.0
+      },
+      "char_bbox": {
+        "x": 481,
+        "y": 446,
+        "width": 64,
+        "height": 54
+      },
+      "char_area": 2893,
+      "confidence": 0.8839781880378723
+    },
+    {
+      "grid_id": 45,
+      "grid_bbox": {
+        "x": 485.0,
+        "y": 298.0,
+        "width": 55.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 487,
+        "y": 301,
+        "width": 46,
+        "height": 47
+      },
+      "char_area": 1705,
+      "confidence": 0.8951797485351562
+    },
+    {
+      "grid_id": 46,
+      "grid_bbox": {
+        "x": 487.0,
+        "y": 598.0,
+        "width": 56.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 491,
+        "y": 606,
+        "width": 45,
+        "height": 40
+      },
+      "char_area": 1546,
+      "confidence": 0.9102663993835449
+    },
+    {
+      "grid_id": 47,
+      "grid_bbox": {
+        "x": 130.0,
+        "y": 300.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 131,
+        "y": 299,
+        "width": 47,
+        "height": 49
+      },
+      "char_area": 2381,
+      "confidence": 0.9533897042274475
+    },
+    {
+      "grid_id": 48,
+      "grid_bbox": {
+        "x": 385.0,
+        "y": 370.0,
+        "width": 45.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 383,
+        "y": 372,
+        "width": 49,
+        "height": 50
+      },
+      "char_area": 2395,
+      "confidence": 0.9099188446998596
+    },
+    {
+      "grid_id": 49,
+      "grid_bbox": {
+        "x": 338.0,
+        "y": 897.0,
+        "width": 46.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 343,
+        "y": 914,
+        "width": 40,
+        "height": 35
+      },
+      "char_area": 1099,
+      "confidence": 0.8374470472335815
+    },
+    {
+      "grid_id": 50,
+      "grid_bbox": {
+        "x": 132.0,
+        "y": 525.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 136,
+        "y": 530,
+        "width": 41,
+        "height": 42
+      },
+      "char_area": 1471,
+      "confidence": 0.8692991733551025
+    },
+    {
+      "grid_id": 51,
+      "grid_bbox": {
+        "x": 545.0,
+        "y": 296.0,
+        "width": 47.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 545,
+        "y": 296,
+        "width": 49,
+        "height": 51
+      },
+      "char_area": 2447,
+      "confidence": 0.9596909880638123
+    },
+    {
+      "grid_id": 52,
+      "grid_bbox": {
+        "x": 184.0,
+        "y": 972.0,
+        "width": 48.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 195,
+        "y": 975,
+        "width": 37,
+        "height": 48
+      },
+      "char_area": 1591,
+      "confidence": 0.8686216473579407
+    },
+    {
+      "grid_id": 53,
+      "grid_bbox": {
+        "x": 546.0,
+        "y": 370.0,
+        "width": 46.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 557,
+        "y": 375,
+        "width": 37,
+        "height": 47
+      },
+      "char_area": 1311,
+      "confidence": 0.8710553646087646
+    },
+    {
+      "grid_id": 54,
+      "grid_bbox": {
+        "x": 437.0,
+        "y": 598.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 436,
+        "y": 597,
+        "width": 49,
+        "height": 50
+      },
+      "char_area": 2355,
+      "confidence": 0.811362624168396
+    },
+    {
+      "grid_id": 55,
+      "grid_bbox": {
+        "x": 384.0,
+        "y": 298.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 383,
+        "y": 297,
+        "width": 48,
+        "height": 50
+      },
+      "char_area": 2353,
+      "confidence": 0.8956279754638672
+    },
+    {
+      "grid_id": 56,
+      "grid_bbox": {
+        "x": 284.0,
+        "y": 298.0,
+        "width": 45.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 283,
+        "y": 298,
+        "width": 47,
+        "height": 49
+      },
+      "char_area": 2297,
+      "confidence": 0.9472047090530396
+    },
+    {
+      "grid_id": 57,
+      "grid_bbox": {
+        "x": 236.0,
+        "y": 825.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 244,
+        "y": 834,
+        "width": 34,
+        "height": 39
+      },
+      "char_area": 1335,
+      "confidence": 0.8989997506141663
+    },
+    {
+      "grid_id": 58,
+      "grid_bbox": {
+        "x": 181.0,
+        "y": 299.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 181,
+        "y": 298,
+        "width": 48,
+        "height": 51
+      },
+      "char_area": 2392,
+      "confidence": 0.9559553265571594
+    },
+    {
+      "grid_id": 59,
+      "grid_bbox": {
+        "x": 597.0,
+        "y": 296.0,
+        "width": 45.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 597,
+        "y": 295,
+        "width": 47,
+        "height": 51
+      },
+      "char_area": 2386,
+      "confidence": 0.9559650421142578
+    },
+    {
+      "grid_id": 60,
+      "grid_bbox": {
+        "x": 601.0,
+        "y": 823.0,
+        "width": 46.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 606,
+        "y": 827,
+        "width": 42,
+        "height": 43
+      },
+      "char_area": 1426,
+      "confidence": 0.8951560854911804
+    },
+    {
+      "grid_id": 61,
+      "grid_bbox": {
+        "x": 485.0,
+        "y": 524.0,
+        "width": 57.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 492,
+        "y": 526,
+        "width": 51,
+        "height": 46
+      },
+      "char_area": 1263,
+      "confidence": 0.7052670121192932
+    },
+    {
+      "grid_id": 62,
+      "grid_bbox": {
+        "x": 331.0,
+        "y": 299.0,
+        "width": 49.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 337,
+        "y": 301,
+        "width": 37,
+        "height": 47
+      },
+      "char_area": 1390,
+      "confidence": 0.8878778219223022
+    },
+    {
+      "grid_id": 63,
+      "grid_bbox": {
+        "x": 433.0,
+        "y": 370.0,
+        "width": 48.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 436,
+        "y": 381,
+        "width": 35,
+        "height": 42
+      },
+      "char_area": 1357,
+      "confidence": 0.8539643287658691
+    },
+    {
+      "grid_id": 64,
+      "grid_bbox": {
+        "x": 232.0,
+        "y": 371.0,
+        "width": 47.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 231,
+        "y": 373,
+        "width": 49,
+        "height": 50
+      },
+      "char_area": 2441,
+      "confidence": 0.881379246711731
+    },
+    {
+      "grid_id": 65,
+      "grid_bbox": {
+        "x": 285.0,
+        "y": 599.0,
+        "width": 49.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 284,
+        "y": 599,
+        "width": 51,
+        "height": 50
+      },
+      "char_area": 2509,
+      "confidence": 0.8108307123184204
+    },
+    {
+      "grid_id": 66,
+      "grid_bbox": {
+        "x": 595.0,
+        "y": 444.0,
+        "width": 48.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 606,
+        "y": 455,
+        "width": 29,
+        "height": 42
+      },
+      "char_area": 1007,
+      "confidence": 0.8052681684494019
+    },
+    {
+      "grid_id": 67,
+      "grid_bbox": {
+        "x": 234.0,
+        "y": 600.0,
+        "width": 46.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 235,
+        "y": 599,
+        "width": 46,
+        "height": 51
+      },
+      "char_area": 2158,
+      "confidence": 0.9204093217849731
+    },
+    {
+      "grid_id": 68,
+      "grid_bbox": {
+        "x": 231.0,
+        "y": 299.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 232,
+        "y": 299,
+        "width": 47,
+        "height": 49
+      },
+      "char_area": 2360,
+      "confidence": 0.9597150683403015
+    },
+    {
+      "grid_id": 69,
+      "grid_bbox": {
+        "x": 547.0,
+        "y": 524.0,
+        "width": 50.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 554,
+        "y": 528,
+        "width": 38,
+        "height": 45
+      },
+      "char_area": 1480,
+      "confidence": 0.8944789171218872
+    },
+    {
+      "grid_id": 70,
+      "grid_bbox": {
+        "x": 332.0,
+        "y": 525.0,
+        "width": 49.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 334,
+        "y": 528,
+        "width": 40,
+        "height": 46
+      },
+      "char_area": 1586,
+      "confidence": 0.8949486017227173
+    },
+    {
+      "grid_id": 71,
+      "grid_bbox": {
+        "x": 386.0,
+        "y": 525.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 389,
+        "y": 528,
+        "width": 36,
+        "height": 43
+      },
+      "char_area": 894,
+      "confidence": 0.7405056953430176
+    },
+    {
+      "grid_id": 72,
+      "grid_bbox": {
+        "x": 385.0,
+        "y": 445.0,
+        "width": 46.0,
+        "height": 52.0
+      },
+      "char_bbox": {
+        "x": 384,
+        "y": 447,
+        "width": 50,
+        "height": 52
+      },
+      "char_area": 2500,
+      "confidence": 0.8707668781280518
+    },
+    {
+      "grid_id": 73,
+      "grid_bbox": {
+        "x": 284.0,
+        "y": 371.0,
+        "width": 45.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 291,
+        "y": 381,
+        "width": 40,
+        "height": 42
+      },
+      "char_area": 1295,
+      "confidence": 0.843267560005188
+    },
+    {
+      "grid_id": 74,
+      "grid_bbox": {
+        "x": 435.0,
+        "y": 298.0,
+        "width": 45.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 435,
+        "y": 303,
+        "width": 44,
+        "height": 44
+      },
+      "char_area": 1615,
+      "confidence": 0.8860002756118774
+    },
+    {
+      "grid_id": 75,
+      "grid_bbox": {
+        "x": 337.0,
+        "y": 599.0,
+        "width": 45.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 341,
+        "y": 604,
+        "width": 43,
+        "height": 44
+      },
+      "char_area": 1501,
+      "confidence": 0.9021618962287903
+    },
+    {
+      "grid_id": 76,
+      "grid_bbox": {
+        "x": 436.0,
+        "y": 445.0,
+        "width": 47.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 434,
+        "y": 452,
+        "width": 52,
+        "height": 46
+      },
+      "char_area": 1782,
+      "confidence": 0.8779259920120239
+    },
+    {
+      "grid_id": 77,
+      "grid_bbox": {
+        "x": 547.0,
+        "y": 823.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 560,
+        "y": 830,
+        "width": 33,
+        "height": 42
+      },
+      "char_area": 1336,
+      "confidence": 0.9096817970275879
+    },
+    {
+      "grid_id": 78,
+      "grid_bbox": {
+        "x": 283.0,
+        "y": 447.0,
+        "width": 47.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 289,
+        "y": 458,
+        "width": 38,
+        "height": 40
+      },
+      "char_area": 1358,
+      "confidence": 0.903496265411377
+    },
+    {
+      "grid_id": 79,
+      "grid_bbox": {
+        "x": 180.0,
+        "y": 447.0,
+        "width": 49.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 195,
+        "y": 452,
+        "width": 34,
+        "height": 45
+      },
+      "char_area": 1292,
+      "confidence": 0.8587090969085693
+    },
+    {
+      "grid_id": 80,
+      "grid_bbox": {
+        "x": 335.0,
+        "y": 446.0,
+        "width": 45.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 332,
+        "y": 446,
+        "width": 51,
+        "height": 55
+      },
+      "char_area": 2625,
+      "confidence": 0.8800553679466248
+    },
+    {
+      "grid_id": 81,
+      "grid_bbox": {
+        "x": 598.0,
+        "y": 524.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 598,
+        "y": 531,
+        "width": 45,
+        "height": 43
+      },
+      "char_area": 1673,
+      "confidence": 0.883818507194519
+    },
+    {
+      "grid_id": 82,
+      "grid_bbox": {
+        "x": 610.0,
+        "y": 370.0,
+        "width": 33.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 604,
+        "y": 377,
+        "width": 33,
+        "height": 45
+      },
+      "char_area": 1083,
+      "confidence": 0.6978229284286499
+    },
+    {
+      "grid_id": 83,
+      "grid_bbox": {
+        "x": 290.0,
+        "y": 525.0,
+        "width": 40.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 291,
+        "y": 530,
+        "width": 32,
+        "height": 40
+      },
+      "char_area": 1026,
+      "confidence": 0.8276365399360657
+    },
+    {
+      "grid_id": 84,
+      "grid_bbox": {
+        "x": 232.0,
+        "y": 447.0,
+        "width": 48.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 235,
+        "y": 458,
+        "width": 29,
+        "height": 39
+      },
+      "char_area": 884,
+      "confidence": 0.8034886121749878
+    },
+    {
+      "grid_id": 85,
+      "grid_bbox": {
+        "x": 452.0,
+        "y": 524.0,
+        "width": 31.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 455,
+        "y": 534,
+        "width": 27,
+        "height": 39
+      },
+      "char_area": 477,
+      "confidence": 0.7710297107696533
+    },
+    {
+      "grid_id": 86,
+      "grid_bbox": {
+        "x": 132.0,
+        "y": 446.0,
+        "width": 47.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 131,
+        "y": 452,
+        "width": 49,
+        "height": 47
+      },
+      "char_area": 1998,
+      "confidence": 0.9013208746910095
+    },
+    {
+      "grid_id": 87,
+      "grid_bbox": {
+        "x": 555.0,
+        "y": 1492.0,
+        "width": 48.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 566,
+        "y": 1499,
+        "width": 32,
+        "height": 46
+      },
+      "char_area": 922,
+      "confidence": 0.7587429881095886
+    },
+    {
+      "grid_id": 88,
+      "grid_bbox": {
+        "x": 395.0,
+        "y": 1572.0,
+        "width": 45.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 403,
+        "y": 1578,
+        "width": 36,
+        "height": 43
+      },
+      "char_area": 1226,
+      "confidence": 0.8100534677505493
+    },
+    {
+      "grid_id": 89,
+      "grid_bbox": {
+        "x": 345.0,
+        "y": 1572.0,
+        "width": 45.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 351,
+        "y": 1574,
+        "width": 35,
+        "height": 47
+      },
+      "char_area": 1229,
+      "confidence": 0.8108868598937988
+    },
+    {
+      "grid_id": 90,
+      "grid_bbox": {
+        "x": 551.0,
+        "y": 1047.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 552,
+        "y": 1050,
+        "width": 48,
+        "height": 46
+      },
+      "char_area": 1733,
+      "confidence": 0.8409558534622192
+    },
+    {
+      "grid_id": 91,
+      "grid_bbox": {
+        "x": 497.0,
+        "y": 1720.0,
+        "width": 55.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 497,
+        "y": 1725,
+        "width": 50,
+        "height": 47
+      },
+      "char_area": 1844,
+      "confidence": 0.8601906299591064
+    },
+    {
+      "grid_id": 92,
+      "grid_bbox": {
+        "x": 190.0,
+        "y": 1495.0,
+        "width": 46.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 195,
+        "y": 1506,
+        "width": 39,
+        "height": 42
+      },
+      "char_area": 1285,
+      "confidence": 0.7992955446243286
+    },
+    {
+      "grid_id": 93,
+      "grid_bbox": {
+        "x": 187.0,
+        "y": 1573.0,
+        "width": 50.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 192,
+        "y": 1580,
+        "width": 38,
+        "height": 43
+      },
+      "char_area": 1414,
+      "confidence": 0.8742775917053223
+    },
+    {
+      "grid_id": 94,
+      "grid_bbox": {
+        "x": 607.0,
+        "y": 1571.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 618,
+        "y": 1576,
+        "width": 36,
+        "height": 44
+      },
+      "char_area": 1299,
+      "confidence": 0.8848877549171448
+    },
+    {
+      "grid_id": 95,
+      "grid_bbox": {
+        "x": 553.0,
+        "y": 1571.0,
+        "width": 49.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 555,
+        "y": 1571,
+        "width": 50,
+        "height": 50
+      },
+      "char_area": 2375,
+      "confidence": 0.8431476354598999
+    },
+    {
+      "grid_id": 96,
+      "grid_bbox": {
+        "x": 138.0,
+        "y": 1198.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 142,
+        "y": 1203,
+        "width": 42,
+        "height": 43
+      },
+      "char_area": 1533,
+      "confidence": 0.8658856153488159
+    },
+    {
+      "grid_id": 97,
+      "grid_bbox": {
+        "x": 493.0,
+        "y": 1572.0,
+        "width": 56.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 499,
+        "y": 1576,
+        "width": 47,
+        "height": 45
+      },
+      "char_area": 1853,
+      "confidence": 0.785368800163269
+    },
+    {
+      "grid_id": 98,
+      "grid_bbox": {
+        "x": 137.0,
+        "y": 1050.0,
+        "width": 45.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 142,
+        "y": 1052,
+        "width": 42,
+        "height": 46
+      },
+      "char_area": 1566,
+      "confidence": 0.8659975528717041
+    },
+    {
+      "grid_id": 99,
+      "grid_bbox": {
+        "x": 552.0,
+        "y": 1271.0,
+        "width": 48.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 560,
+        "y": 1279,
+        "width": 43,
+        "height": 39
+      },
+      "char_area": 1402,
+      "confidence": 0.8978514671325684
+    },
+    {
+      "grid_id": 100,
+      "grid_bbox": {
+        "x": 242.0,
+        "y": 1572.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 244,
+        "y": 1580,
+        "width": 42,
+        "height": 42
+      },
+      "char_area": 1633,
+      "confidence": 0.9069801568984985
+    },
+    {
+      "grid_id": 101,
+      "grid_bbox": {
+        "x": 293.0,
+        "y": 1572.0,
+        "width": 48.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 300,
+        "y": 1574,
+        "width": 41,
+        "height": 47
+      },
+      "char_area": 1663,
+      "confidence": 0.8739632368087769
+    },
+    {
+      "grid_id": 102,
+      "grid_bbox": {
+        "x": 141.0,
+        "y": 1573.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 150,
+        "y": 1575,
+        "width": 34,
+        "height": 48
+      },
+      "char_area": 1439,
+      "confidence": 0.8930933475494385
+    },
+    {
+      "grid_id": 103,
+      "grid_bbox": {
+        "x": 187.0,
+        "y": 1050.0,
+        "width": 46.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 188,
+        "y": 1048,
+        "width": 47,
+        "height": 50
+      },
+      "char_area": 2263,
+      "confidence": 0.9111572504043579
+    },
+    {
+      "grid_id": 104,
+      "grid_bbox": {
+        "x": 187.0,
+        "y": 1197.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 193,
+        "y": 1200,
+        "width": 46,
+        "height": 46
+      },
+      "char_area": 1622,
+      "confidence": 0.8730320930480957
+    },
+    {
+      "grid_id": 105,
+      "grid_bbox": {
+        "x": 189.0,
+        "y": 1423.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 189,
+        "y": 1422,
+        "width": 48,
+        "height": 49
+      },
+      "char_area": 2380,
+      "confidence": 0.9523278474807739
+    },
+    {
+      "grid_id": 106,
+      "grid_bbox": {
+        "x": 288.0,
+        "y": 1347.0,
+        "width": 50.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 294,
+        "y": 1354,
+        "width": 41,
+        "height": 41
+      },
+      "char_area": 1370,
+      "confidence": 0.7498513460159302
+    },
+    {
+      "grid_id": 107,
+      "grid_bbox": {
+        "x": 289.0,
+        "y": 1272.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 289,
+        "y": 1274,
+        "width": 46,
+        "height": 48
+      },
+      "char_area": 1886,
+      "confidence": 0.8385573625564575
+    },
+    {
+      "grid_id": 108,
+      "grid_bbox": {
+        "x": 607.0,
+        "y": 1646.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 614,
+        "y": 1647,
+        "width": 43,
+        "height": 48
+      },
+      "char_area": 1713,
+      "confidence": 0.8917598724365234
+    },
+    {
+      "grid_id": 109,
+      "grid_bbox": {
+        "x": 141.0,
+        "y": 1495.0,
+        "width": 45.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 148,
+        "y": 1504,
+        "width": 39,
+        "height": 43
+      },
+      "char_area": 998,
+      "confidence": 0.788106381893158
+    },
+    {
+      "grid_id": 110,
+      "grid_bbox": {
+        "x": 444.0,
+        "y": 1494.0,
+        "width": 46.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 448,
+        "y": 1488,
+        "width": 44,
+        "height": 56
+      },
+      "char_area": 1807,
+      "confidence": 0.8747198581695557
+    },
+    {
+      "grid_id": 111,
+      "grid_bbox": {
+        "x": 240.0,
+        "y": 1347.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 248,
+        "y": 1347,
+        "width": 38,
+        "height": 50
+      },
+      "char_area": 1315,
+      "confidence": 0.8570557832717896
+    },
+    {
+      "grid_id": 112,
+      "grid_bbox": {
+        "x": 444.0,
+        "y": 1720.0,
+        "width": 48.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 454,
+        "y": 1725,
+        "width": 33,
+        "height": 47
+      },
+      "char_area": 1100,
+      "confidence": 0.7666876912117004
+    },
+    {
+      "grid_id": 113,
+      "grid_bbox": {
+        "x": 394.0,
+        "y": 1494.0,
+        "width": 45.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 394,
+        "y": 1495,
+        "width": 47,
+        "height": 50
+      },
+      "char_area": 2315,
+      "confidence": 0.9234416484832764
+    },
+    {
+      "grid_id": 114,
+      "grid_bbox": {
+        "x": 345.0,
+        "y": 1720.0,
+        "width": 46.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 351,
+        "y": 1728,
+        "width": 40,
+        "height": 44
+      },
+      "char_area": 1533,
+      "confidence": 0.889896035194397
+    },
+    {
+      "grid_id": 115,
+      "grid_bbox": {
+        "x": 607.0,
+        "y": 1492.0,
+        "width": 45.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 615,
+        "y": 1504,
+        "width": 27,
+        "height": 40
+      },
+      "char_area": 884,
+      "confidence": 0.83900386095047
+    },
+    {
+      "grid_id": 116,
+      "grid_bbox": {
+        "x": 290.0,
+        "y": 1197.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 300,
+        "y": 1203,
+        "width": 33,
+        "height": 44
+      },
+      "char_area": 1284,
+      "confidence": 0.872650682926178
+    },
+    {
+      "grid_id": 117,
+      "grid_bbox": {
+        "x": 601.0,
+        "y": 1047.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 607,
+        "y": 1054,
+        "width": 39,
+        "height": 44
+      },
+      "char_area": 1191,
+      "confidence": 0.8476101756095886
+    },
+    {
+      "grid_id": 118,
+      "grid_bbox": {
+        "x": 292.0,
+        "y": 1493.0,
+        "width": 47.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 298,
+        "y": 1502,
+        "width": 41,
+        "height": 44
+      },
+      "char_area": 1359,
+      "confidence": 0.8562890887260437
+    },
+    {
+      "grid_id": 119,
+      "grid_bbox": {
+        "x": 397.0,
+        "y": 1720.0,
+        "width": 45.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 406,
+        "y": 1724,
+        "width": 36,
+        "height": 47
+      },
+      "char_area": 1597,
+      "confidence": 0.8821900486946106
+    },
+    {
+      "grid_id": 120,
+      "grid_bbox": {
+        "x": 388.0,
+        "y": 1049.0,
+        "width": 48.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 396,
+        "y": 1050,
+        "width": 38,
+        "height": 47
+      },
+      "char_area": 1516,
+      "confidence": 0.9023535251617432
+    },
+    {
+      "grid_id": 121,
+      "grid_bbox": {
+        "x": 139.0,
+        "y": 1273.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 138,
+        "y": 1278,
+        "width": 39,
+        "height": 44
+      },
+      "char_area": 1504,
+      "confidence": 0.8779995441436768
+    },
+    {
+      "grid_id": 122,
+      "grid_bbox": {
+        "x": 187.0,
+        "y": 1123.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 194,
+        "y": 1127,
+        "width": 35,
+        "height": 46
+      },
+      "char_area": 1247,
+      "confidence": 0.8880083560943604
+    },
+    {
+      "grid_id": 123,
+      "grid_bbox": {
+        "x": 188.0,
+        "y": 1348.0,
+        "width": 49.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 192,
+        "y": 1354,
+        "width": 42,
+        "height": 44
+      },
+      "char_area": 1524,
+      "confidence": 0.7800949811935425
+    },
+    {
+      "grid_id": 124,
+      "grid_bbox": {
+        "x": 440.0,
+        "y": 1047.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 445,
+        "y": 1052,
+        "width": 42,
+        "height": 45
+      },
+      "char_area": 1469,
+      "confidence": 0.9020633697509766
+    },
+    {
+      "grid_id": 125,
+      "grid_bbox": {
+        "x": 491.0,
+        "y": 1272.0,
+        "width": 56.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 506,
+        "y": 1279,
+        "width": 45,
+        "height": 42
+      },
+      "char_area": 1586,
+      "confidence": 0.8790513277053833
+    },
+    {
+      "grid_id": 126,
+      "grid_bbox": {
+        "x": 491.0,
+        "y": 1346.0,
+        "width": 57.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 493,
+        "y": 1345,
+        "width": 57,
+        "height": 49
+      },
+      "char_area": 2796,
+      "confidence": 0.9559619426727295
+    },
+    {
+      "grid_id": 127,
+      "grid_bbox": {
+        "x": 239.0,
+        "y": 1494.0,
+        "width": 49.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 237,
+        "y": 1494,
+        "width": 54,
+        "height": 53
+      },
+      "char_area": 2535,
+      "confidence": 0.8255642056465149
+    },
+    {
+      "grid_id": 128,
+      "grid_bbox": {
+        "x": 554.0,
+        "y": 1421.0,
+        "width": 49.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 564,
+        "y": 1423,
+        "width": 40,
+        "height": 48
+      },
+      "char_area": 1666,
+      "confidence": 0.9171216487884521
+    },
+    {
+      "grid_id": 129,
+      "grid_bbox": {
+        "x": 604.0,
+        "y": 1270.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 612,
+        "y": 1274,
+        "width": 41,
+        "height": 46
+      },
+      "char_area": 1465,
+      "confidence": 0.8826785087585449
+    },
+    {
+      "grid_id": 130,
+      "grid_bbox": {
+        "x": 239.0,
+        "y": 1272.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 247,
+        "y": 1280,
+        "width": 34,
+        "height": 39
+      },
+      "char_area": 1020,
+      "confidence": 0.7998175621032715
+    },
+    {
+      "grid_id": 131,
+      "grid_bbox": {
+        "x": 236.0,
+        "y": 1049.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 247,
+        "y": 1050,
+        "width": 39,
+        "height": 46
+      },
+      "char_area": 1567,
+      "confidence": 0.8576980829238892
+    },
+    {
+      "grid_id": 132,
+      "grid_bbox": {
+        "x": 391.0,
+        "y": 1271.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 393,
+        "y": 1270,
+        "width": 46,
+        "height": 50
+      },
+      "char_area": 2287,
+      "confidence": 0.922147274017334
+    },
+    {
+      "grid_id": 133,
+      "grid_bbox": {
+        "x": 444.0,
+        "y": 1572.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 453,
+        "y": 1580,
+        "width": 33,
+        "height": 40
+      },
+      "char_area": 1049,
+      "confidence": 0.8418824076652527
+    },
+    {
+      "grid_id": 134,
+      "grid_bbox": {
+        "x": 140.0,
+        "y": 1423.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 140,
+        "y": 1422,
+        "width": 46,
+        "height": 50
+      },
+      "char_area": 2269,
+      "confidence": 0.9483761787414551
+    },
+    {
+      "grid_id": 135,
+      "grid_bbox": {
+        "x": 391.0,
+        "y": 1197.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 395,
+        "y": 1202,
+        "width": 43,
+        "height": 44
+      },
+      "char_area": 1574,
+      "confidence": 0.875812292098999
+    },
+    {
+      "grid_id": 136,
+      "grid_bbox": {
+        "x": 443.0,
+        "y": 1346.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 442,
+        "y": 1344,
+        "width": 48,
+        "height": 52
+      },
+      "char_area": 2405,
+      "confidence": 0.7927559614181519
+    },
+    {
+      "grid_id": 137,
+      "grid_bbox": {
+        "x": 604.0,
+        "y": 1346.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 605,
+        "y": 1345,
+        "width": 47,
+        "height": 49
+      },
+      "char_area": 2367,
+      "confidence": 0.9602845907211304
+    },
+    {
+      "grid_id": 138,
+      "grid_bbox": {
+        "x": 395.0,
+        "y": 1347.0,
+        "width": 43.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 396,
+        "y": 1357,
+        "width": 44,
+        "height": 40
+      },
+      "char_area": 1433,
+      "confidence": 0.8766933679580688
+    },
+    {
+      "grid_id": 139,
+      "grid_bbox": {
+        "x": 553.0,
+        "y": 1346.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 553,
+        "y": 1345,
+        "width": 49,
+        "height": 49
+      },
+      "char_area": 2407,
+      "confidence": 0.9568406343460083
+    },
+    {
+      "grid_id": 140,
+      "grid_bbox": {
+        "x": 139.0,
+        "y": 1348.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 142,
+        "y": 1354,
+        "width": 39,
+        "height": 42
+      },
+      "char_area": 1187,
+      "confidence": 0.8321720361709595
+    },
+    {
+      "grid_id": 141,
+      "grid_bbox": {
+        "x": 605.0,
+        "y": 1421.0,
+        "width": 44.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 611,
+        "y": 1421,
+        "width": 39,
+        "height": 49
+      },
+      "char_area": 1732,
+      "confidence": 0.8758488893508911
+    },
+    {
+      "grid_id": 142,
+      "grid_bbox": {
+        "x": 442.0,
+        "y": 1271.0,
+        "width": 45.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 447,
+        "y": 1280,
+        "width": 35,
+        "height": 40
+      },
+      "char_area": 1075,
+      "confidence": 0.8523954153060913
+    },
+    {
+      "grid_id": 143,
+      "grid_bbox": {
+        "x": 339.0,
+        "y": 1049.0,
+        "width": 46.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 350,
+        "y": 1050,
+        "width": 28,
+        "height": 47
+      },
+      "char_area": 929,
+      "confidence": 0.753767192363739
+    },
+    {
+      "grid_id": 144,
+      "grid_bbox": {
+        "x": 192.0,
+        "y": 1720.0,
+        "width": 45.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 194,
+        "y": 1725,
+        "width": 44,
+        "height": 47
+      },
+      "char_area": 1696,
+      "confidence": 0.8633862137794495
+    },
+    {
+      "grid_id": 145,
+      "grid_bbox": {
+        "x": 239.0,
+        "y": 1197.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 249,
+        "y": 1207,
+        "width": 39,
+        "height": 40
+      },
+      "char_area": 1195,
+      "confidence": 0.8339492082595825
+    },
+    {
+      "grid_id": 146,
+      "grid_bbox": {
+        "x": 243.0,
+        "y": 1646.0,
+        "width": 46.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 245,
+        "y": 1647,
+        "width": 47,
+        "height": 50
+      },
+      "char_area": 2240,
+      "confidence": 0.8630082607269287
+    },
+    {
+      "grid_id": 147,
+      "grid_bbox": {
+        "x": 142.0,
+        "y": 1720.0,
+        "width": 46.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 144,
+        "y": 1727,
+        "width": 44,
+        "height": 45
+      },
+      "char_area": 1613,
+      "confidence": 0.8813490271568298
+    },
+    {
+      "grid_id": 148,
+      "grid_bbox": {
+        "x": 341.0,
+        "y": 1272.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 342,
+        "y": 1271,
+        "width": 49,
+        "height": 49
+      },
+      "char_area": 2279,
+      "confidence": 0.8604568839073181
+    },
+    {
+      "grid_id": 149,
+      "grid_bbox": {
+        "x": 295.0,
+        "y": 1720.0,
+        "width": 45.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 304,
+        "y": 1724,
+        "width": 29,
+        "height": 47
+      },
+      "char_area": 711,
+      "confidence": 0.7257033586502075
+    },
+    {
+      "grid_id": 150,
+      "grid_bbox": {
+        "x": 491.0,
+        "y": 1047.0,
+        "width": 44.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 497,
+        "y": 1054,
+        "width": 44,
+        "height": 43
+      },
+      "char_area": 1548,
+      "confidence": 0.8554280400276184
+    },
+    {
+      "grid_id": 151,
+      "grid_bbox": {
+        "x": 495.0,
+        "y": 1421.0,
+        "width": 54.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 501,
+        "y": 1426,
+        "width": 48,
+        "height": 45
+      },
+      "char_area": 1750,
+      "confidence": 0.9006177186965942
+    },
+    {
+      "grid_id": 152,
+      "grid_bbox": {
+        "x": 343.0,
+        "y": 1494.0,
+        "width": 46.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 344,
+        "y": 1506,
+        "width": 45,
+        "height": 40
+      },
+      "char_area": 1644,
+      "confidence": 0.8705089688301086
+    },
+    {
+      "grid_id": 153,
+      "grid_bbox": {
+        "x": 393.0,
+        "y": 1422.0,
+        "width": 44.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 406,
+        "y": 1423,
+        "width": 32,
+        "height": 47
+      },
+      "char_area": 1229,
+      "confidence": 0.7928252220153809
+    },
+    {
+      "grid_id": 154,
+      "grid_bbox": {
+        "x": 395.0,
+        "y": 1647.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 404,
+        "y": 1652,
+        "width": 32,
+        "height": 44
+      },
+      "char_area": 1344,
+      "confidence": 0.8738987445831299
+    },
+    {
+      "grid_id": 155,
+      "grid_bbox": {
+        "x": 341.0,
+        "y": 1196.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 351,
+        "y": 1205,
+        "width": 39,
+        "height": 41
+      },
+      "char_area": 1316,
+      "confidence": 0.8667085766792297
+    },
+    {
+      "grid_id": 156,
+      "grid_bbox": {
+        "x": 509.0,
+        "y": 1493.0,
+        "width": 41.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 506,
+        "y": 1505,
+        "width": 39,
+        "height": 39
+      },
+      "char_area": 1278,
+      "confidence": 0.8394709825515747
+    },
+    {
+      "grid_id": 157,
+      "grid_bbox": {
+        "x": 341.0,
+        "y": 1347.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 346,
+        "y": 1349,
+        "width": 41,
+        "height": 47
+      },
+      "char_area": 1362,
+      "confidence": 0.8307974934577942
+    },
+    {
+      "grid_id": 158,
+      "grid_bbox": {
+        "x": 291.0,
+        "y": 1422.0,
+        "width": 49.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 295,
+        "y": 1424,
+        "width": 42,
+        "height": 47
+      },
+      "char_area": 1719,
+      "confidence": 0.8733233213424683
+    },
+    {
+      "grid_id": 159,
+      "grid_bbox": {
+        "x": 345.0,
+        "y": 1646.0,
+        "width": 45.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 347,
+        "y": 1656,
+        "width": 40,
+        "height": 41
+      },
+      "char_area": 1401,
+      "confidence": 0.8799666166305542
+    },
+    {
+      "grid_id": 160,
+      "grid_bbox": {
+        "x": 240.0,
+        "y": 1422.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 247,
+        "y": 1428,
+        "width": 31,
+        "height": 44
+      },
+      "char_area": 1139,
+      "confidence": 0.8357160687446594
+    },
+    {
+      "grid_id": 161,
+      "grid_bbox": {
+        "x": 288.0,
+        "y": 1049.0,
+        "width": 47.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 296,
+        "y": 1052,
+        "width": 43,
+        "height": 43
+      },
+      "char_area": 1421,
+      "confidence": 0.8730530738830566
+    },
+    {
+      "grid_id": 162,
+      "grid_bbox": {
+        "x": 444.0,
+        "y": 1646.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 449,
+        "y": 1649,
+        "width": 36,
+        "height": 47
+      },
+      "char_area": 1413,
+      "confidence": 0.8596624135971069
+    },
+    {
+      "grid_id": 163,
+      "grid_bbox": {
+        "x": 294.0,
+        "y": 1646.0,
+        "width": 47.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 303,
+        "y": 1653,
+        "width": 39,
+        "height": 43
+      },
+      "char_area": 1403,
+      "confidence": 0.8953323364257812
+    },
+    {
+      "grid_id": 164,
+      "grid_bbox": {
+        "x": 441.0,
+        "y": 1196.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 449,
+        "y": 1199,
+        "width": 43,
+        "height": 50
+      },
+      "char_area": 1538,
+      "confidence": 0.8773295283317566
+    },
+    {
+      "grid_id": 165,
+      "grid_bbox": {
+        "x": 492.0,
+        "y": 1195.0,
+        "width": 55.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 502,
+        "y": 1205,
+        "width": 37,
+        "height": 42
+      },
+      "char_area": 1374,
+      "confidence": 0.8420542478561401
+    },
+    {
+      "grid_id": 166,
+      "grid_bbox": {
+        "x": 603.0,
+        "y": 1193.0,
+        "width": 46.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 607,
+        "y": 1201,
+        "width": 46,
+        "height": 43
+      },
+      "char_area": 1616,
+      "confidence": 0.8484525680541992
+    },
+    {
+      "grid_id": 167,
+      "grid_bbox": {
+        "x": 141.0,
+        "y": 1647.0,
+        "width": 48.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 143,
+        "y": 1648,
+        "width": 46,
+        "height": 51
+      },
+      "char_area": 2173,
+      "confidence": 0.7566472291946411
+    },
+    {
+      "grid_id": 168,
+      "grid_bbox": {
+        "x": 443.0,
+        "y": 1421.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 448,
+        "y": 1427,
+        "width": 36,
+        "height": 43
+      },
+      "char_area": 1367,
+      "confidence": 0.8981496095657349
+    },
+    {
+      "grid_id": 169,
+      "grid_bbox": {
+        "x": 551.0,
+        "y": 1182.0,
+        "width": 48.0,
+        "height": 62.0
+      },
+      "char_bbox": {
+        "x": 552,
+        "y": 1180,
+        "width": 50,
+        "height": 66
+      },
+      "char_area": 2096,
+      "confidence": 0.8688573241233826
+    },
+    {
+      "grid_id": 170,
+      "grid_bbox": {
+        "x": 186.0,
+        "y": 1273.0,
+        "width": 48.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 194,
+        "y": 1281,
+        "width": 42,
+        "height": 41
+      },
+      "char_area": 1489,
+      "confidence": 0.8822493553161621
+    },
+    {
+      "grid_id": 171,
+      "grid_bbox": {
+        "x": 391.0,
+        "y": 1122.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 396,
+        "y": 1125,
+        "width": 42,
+        "height": 46
+      },
+      "char_area": 1516,
+      "confidence": 0.8709515333175659
+    },
+    {
+      "grid_id": 172,
+      "grid_bbox": {
+        "x": 138.0,
+        "y": 1122.0,
+        "width": 43.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 139,
+        "y": 1128,
+        "width": 42,
+        "height": 45
+      },
+      "char_area": 1838,
+      "confidence": 0.9293229579925537
+    },
+    {
+      "grid_id": 173,
+      "grid_bbox": {
+        "x": 193.0,
+        "y": 1646.0,
+        "width": 46.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 192,
+        "y": 1655,
+        "width": 44,
+        "height": 42
+      },
+      "char_area": 1701,
+      "confidence": 0.8668124675750732
+    },
+    {
+      "grid_id": 174,
+      "grid_bbox": {
+        "x": 140.0,
+        "y": 1399.0,
+        "width": 138.0,
+        "height": 19.0
+      },
+      "char_bbox": {
+        "x": 139,
+        "y": 1398,
+        "width": 149,
+        "height": 22
+      },
+      "char_area": 2977,
+      "confidence": 0.7786437273025513
+    },
+    {
+      "grid_id": 175,
+      "grid_bbox": {
+        "x": 236.0,
+        "y": 1123.0,
+        "width": 49.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 245,
+        "y": 1126,
+        "width": 39,
+        "height": 46
+      },
+      "char_area": 1339,
+      "confidence": 0.8732276558876038
+    },
+    {
+      "grid_id": 176,
+      "grid_bbox": {
+        "x": 556.0,
+        "y": 1646.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 564,
+        "y": 1648,
+        "width": 36,
+        "height": 49
+      },
+      "char_area": 1414,
+      "confidence": 0.8796379566192627
+    },
+    {
+      "grid_id": 177,
+      "grid_bbox": {
+        "x": 904.0,
+        "y": 969.0,
+        "width": 58.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 911,
+        "y": 976,
+        "width": 50,
+        "height": 43
+      },
+      "char_area": 1638,
+      "confidence": 0.8363195061683655
+    },
+    {
+      "grid_id": 178,
+      "grid_bbox": {
+        "x": 650.0,
+        "y": 673.0,
+        "width": 45.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 650,
+        "y": 673,
+        "width": 49,
+        "height": 49
+      },
+      "char_area": 2386,
+      "confidence": 0.9567297101020813
+    },
+    {
+      "grid_id": 179,
+      "grid_bbox": {
+        "x": 651.0,
+        "y": 823.0,
+        "width": 45.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 658,
+        "y": 826,
+        "width": 31,
+        "height": 44
+      },
+      "char_area": 1194,
+      "confidence": 0.8957120180130005
+    },
+    {
+      "grid_id": 180,
+      "grid_bbox": {
+        "x": 753.0,
+        "y": 823.0,
+        "width": 45.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 756,
+        "y": 827,
+        "width": 45,
+        "height": 44
+      },
+      "char_area": 1662,
+      "confidence": 0.9086794853210449
+    },
+    {
+      "grid_id": 181,
+      "grid_bbox": {
+        "x": 905.0,
+        "y": 822.0,
+        "width": 55.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 903,
+        "y": 824,
+        "width": 51,
+        "height": 47
+      },
+      "char_area": 2087,
+      "confidence": 0.8668580055236816
+    },
+    {
+      "grid_id": 182,
+      "grid_bbox": {
+        "x": 749.0,
+        "y": 673.0,
+        "width": 48.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 751,
+        "y": 673,
+        "width": 49,
+        "height": 49
+      },
+      "char_area": 2371,
+      "confidence": 0.9574315547943115
+    },
+    {
+      "grid_id": 183,
+      "grid_bbox": {
+        "x": 653.0,
+        "y": 970.0,
+        "width": 45.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 662,
+        "y": 980,
+        "width": 33,
+        "height": 39
+      },
+      "char_area": 925,
+      "confidence": 0.7940015196800232
+    },
+    {
+      "grid_id": 184,
+      "grid_bbox": {
+        "x": 855.0,
+        "y": 969.0,
+        "width": 45.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 862,
+        "y": 973,
+        "width": 36,
+        "height": 48
+      },
+      "char_area": 1260,
+      "confidence": 0.8913396000862122
+    },
+    {
+      "grid_id": 185,
+      "grid_bbox": {
+        "x": 754.0,
+        "y": 970.0,
+        "width": 47.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 758,
+        "y": 977,
+        "width": 44,
+        "height": 44
+      },
+      "char_area": 1484,
+      "confidence": 0.8709980845451355
+    },
+    {
+      "grid_id": 186,
+      "grid_bbox": {
+        "x": 653.0,
+        "y": 1121.0,
+        "width": 44.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 659,
+        "y": 1129,
+        "width": 41,
+        "height": 40
+      },
+      "char_area": 1368,
+      "confidence": 0.8909657001495361
+    },
+    {
+      "grid_id": 187,
+      "grid_bbox": {
+        "x": 902.0,
+        "y": 368.0,
+        "width": 56.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 901,
+        "y": 377,
+        "width": 55,
+        "height": 43
+      },
+      "char_area": 1293,
+      "confidence": 0.795310914516449
+    },
+    {
+      "grid_id": 188,
+      "grid_bbox": {
+        "x": 903.0,
+        "y": 672.0,
+        "width": 56.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 904,
+        "y": 672,
+        "width": 56,
+        "height": 49
+      },
+      "char_area": 2731,
+      "confidence": 0.9540922045707703
+    },
+    {
+      "grid_id": 189,
+      "grid_bbox": {
+        "x": 801.0,
+        "y": 673.0,
+        "width": 51.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 801,
+        "y": 673,
+        "width": 49,
+        "height": 48
+      },
+      "char_area": 2385,
+      "confidence": 0.9584516882896423
+    },
+    {
+      "grid_id": 190,
+      "grid_bbox": {
+        "x": 698.0,
+        "y": 673.0,
+        "width": 48.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 701,
+        "y": 673,
+        "width": 47,
+        "height": 49
+      },
+      "char_area": 2367,
+      "confidence": 0.9555501937866211
+    },
+    {
+      "grid_id": 191,
+      "grid_bbox": {
+        "x": 855.0,
+        "y": 672.0,
+        "width": 44.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 853,
+        "y": 672,
+        "width": 49,
+        "height": 49
+      },
+      "char_area": 2360,
+      "confidence": 0.9486191272735596
+    },
+    {
+      "grid_id": 192,
+      "grid_bbox": {
+        "x": 906.0,
+        "y": 1121.0,
+        "width": 57.0,
+        "height": 45.0
+      },
+      "char_bbox": {
+        "x": 910,
+        "y": 1125,
+        "width": 50,
+        "height": 44
+      },
+      "char_area": 1815,
+      "confidence": 0.89493727684021
+    },
+    {
+      "grid_id": 193,
+      "grid_bbox": {
+        "x": 650.0,
+        "y": 598.0,
+        "width": 46.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 651,
+        "y": 601,
+        "width": 46,
+        "height": 46
+      },
+      "char_area": 1771,
+      "confidence": 0.9017742872238159
+    },
+    {
+      "grid_id": 194,
+      "grid_bbox": {
+        "x": 648.0,
+        "y": 445.0,
+        "width": 46.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 658,
+        "y": 456,
+        "width": 38,
+        "height": 40
+      },
+      "char_area": 1129,
+      "confidence": 0.876807689666748
+    },
+    {
+      "grid_id": 195,
+      "grid_bbox": {
+        "x": 749.0,
+        "y": 369.0,
+        "width": 47.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 757,
+        "y": 374,
+        "width": 32,
+        "height": 48
+      },
+      "char_area": 1093,
+      "confidence": 0.861709475517273
+    },
+    {
+      "grid_id": 196,
+      "grid_bbox": {
+        "x": 700.0,
+        "y": 823.0,
+        "width": 48.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 714,
+        "y": 833,
+        "width": 34,
+        "height": 40
+      },
+      "char_area": 1011,
+      "confidence": 0.7839678525924683
+    },
+    {
+      "grid_id": 197,
+      "grid_bbox": {
+        "x": 648.0,
+        "y": 369.0,
+        "width": 46.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 648,
+        "y": 374,
+        "width": 42,
+        "height": 47
+      },
+      "char_area": 1412,
+      "confidence": 0.7799197435379028
+    },
+    {
+      "grid_id": 198,
+      "grid_bbox": {
+        "x": 751.0,
+        "y": 598.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 750,
+        "y": 600,
+        "width": 45,
+        "height": 47
+      },
+      "char_area": 1634,
+      "confidence": 0.9010589122772217
+    },
+    {
+      "grid_id": 199,
+      "grid_bbox": {
+        "x": 854.0,
+        "y": 822.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 856,
+        "y": 824,
+        "width": 35,
+        "height": 50
+      },
+      "char_area": 1470,
+      "confidence": 0.8633804321289062
+    },
+    {
+      "grid_id": 200,
+      "grid_bbox": {
+        "x": 702.0,
+        "y": 970.0,
+        "width": 48.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 705,
+        "y": 979,
+        "width": 46,
+        "height": 41
+      },
+      "char_area": 1418,
+      "confidence": 0.8775808811187744
+    },
+    {
+      "grid_id": 201,
+      "grid_bbox": {
+        "x": 755.0,
+        "y": 1121.0,
+        "width": 45.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 762,
+        "y": 1121,
+        "width": 32,
+        "height": 46
+      },
+      "char_area": 974,
+      "confidence": 0.8271806240081787
+    },
+    {
+      "grid_id": 202,
+      "grid_bbox": {
+        "x": 803.0,
+        "y": 598.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 806,
+        "y": 605,
+        "width": 42,
+        "height": 42
+      },
+      "char_area": 1334,
+      "confidence": 0.8762819766998291
+    },
+    {
+      "grid_id": 203,
+      "grid_bbox": {
+        "x": 800.0,
+        "y": 369.0,
+        "width": 47.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 798,
+        "y": 375,
+        "width": 46,
+        "height": 46
+      },
+      "char_area": 1867,
+      "confidence": 0.8943405747413635
+    },
+    {
+      "grid_id": 204,
+      "grid_bbox": {
+        "x": 651.0,
+        "y": 895.0,
+        "width": 47.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 658,
+        "y": 900,
+        "width": 30,
+        "height": 47
+      },
+      "char_area": 1153,
+      "confidence": 0.876797080039978
+    },
+    {
+      "grid_id": 205,
+      "grid_bbox": {
+        "x": 903.0,
+        "y": 597.0,
+        "width": 56.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 904,
+        "y": 604,
+        "width": 47,
+        "height": 42
+      },
+      "char_area": 1863,
+      "confidence": 0.8434408903121948
+    },
+    {
+      "grid_id": 206,
+      "grid_bbox": {
+        "x": 904.0,
+        "y": 893.0,
+        "width": 58.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 911,
+        "y": 902,
+        "width": 49,
+        "height": 45
+      },
+      "char_area": 1756,
+      "confidence": 0.857744574546814
+    },
+    {
+      "grid_id": 207,
+      "grid_bbox": {
+        "x": 900.0,
+        "y": 522.0,
+        "width": 58.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 909,
+        "y": 528,
+        "width": 49,
+        "height": 45
+      },
+      "char_area": 1917,
+      "confidence": 0.9048568606376648
+    },
+    {
+      "grid_id": 208,
+      "grid_bbox": {
+        "x": 854.0,
+        "y": 522.0,
+        "width": 44.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 858,
+        "y": 533,
+        "width": 38,
+        "height": 40
+      },
+      "char_area": 1290,
+      "confidence": 0.8375085592269897
+    },
+    {
+      "grid_id": 209,
+      "grid_bbox": {
+        "x": 700.0,
+        "y": 369.0,
+        "width": 45.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 703,
+        "y": 375,
+        "width": 38,
+        "height": 46
+      },
+      "char_area": 1187,
+      "confidence": 0.8567265272140503
+    },
+    {
+      "grid_id": 210,
+      "grid_bbox": {
+        "x": 751.0,
+        "y": 523.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 758,
+        "y": 526,
+        "width": 37,
+        "height": 47
+      },
+      "char_area": 1254,
+      "confidence": 0.8770131468772888
+    },
+    {
+      "grid_id": 211,
+      "grid_bbox": {
+        "x": 749.0,
+        "y": 444.0,
+        "width": 47.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 758,
+        "y": 446,
+        "width": 32,
+        "height": 51
+      },
+      "char_area": 1235,
+      "confidence": 0.8761797547340393
+    },
+    {
+      "grid_id": 212,
+      "grid_bbox": {
+        "x": 701.0,
+        "y": 598.0,
+        "width": 45.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 708,
+        "y": 599,
+        "width": 34,
+        "height": 48
+      },
+      "char_area": 1089,
+      "confidence": 0.8698990941047668
+    },
+    {
+      "grid_id": 213,
+      "grid_bbox": {
+        "x": 902.0,
+        "y": 443.0,
+        "width": 56.0,
+        "height": 52.0
+      },
+      "char_bbox": {
+        "x": 906,
+        "y": 451,
+        "width": 47,
+        "height": 47
+      },
+      "char_area": 1588,
+      "confidence": 0.875070333480835
+    },
+    {
+      "grid_id": 214,
+      "grid_bbox": {
+        "x": 853.0,
+        "y": 369.0,
+        "width": 44.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 851,
+        "y": 376,
+        "width": 44,
+        "height": 44
+      },
+      "char_area": 1526,
+      "confidence": 0.8506959676742554
+    },
+    {
+      "grid_id": 215,
+      "grid_bbox": {
+        "x": 746.0,
+        "y": 296.0,
+        "width": 50.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 749,
+        "y": 295,
+        "width": 47,
+        "height": 49
+      },
+      "char_area": 2319,
+      "confidence": 0.9529376029968262
+    },
+    {
+      "grid_id": 216,
+      "grid_bbox": {
+        "x": 800.0,
+        "y": 295.0,
+        "width": 45.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 799,
+        "y": 295,
+        "width": 48,
+        "height": 49
+      },
+      "char_area": 2395,
+      "confidence": 0.961622953414917
+    },
+    {
+      "grid_id": 217,
+      "grid_bbox": {
+        "x": 803.0,
+        "y": 1121.0,
+        "width": 50.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 812,
+        "y": 1123,
+        "width": 39,
+        "height": 46
+      },
+      "char_area": 1400,
+      "confidence": 0.8511158227920532
+    },
+    {
+      "grid_id": 218,
+      "grid_bbox": {
+        "x": 902.0,
+        "y": 295.0,
+        "width": 55.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 902,
+        "y": 295,
+        "width": 56,
+        "height": 49
+      },
+      "char_area": 2777,
+      "confidence": 0.9599260091781616
+    },
+    {
+      "grid_id": 219,
+      "grid_bbox": {
+        "x": 857.0,
+        "y": 1121.0,
+        "width": 45.0,
+        "height": 45.0
+      },
+      "char_bbox": {
+        "x": 863,
+        "y": 1125,
+        "width": 33,
+        "height": 44
+      },
+      "char_area": 1106,
+      "confidence": 0.7864245772361755
+    },
+    {
+      "grid_id": 220,
+      "grid_bbox": {
+        "x": 801.0,
+        "y": 523.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 812,
+        "y": 528,
+        "width": 32,
+        "height": 44
+      },
+      "char_area": 1288,
+      "confidence": 0.8561878800392151
+    },
+    {
+      "grid_id": 221,
+      "grid_bbox": {
+        "x": 704.0,
+        "y": 1121.0,
+        "width": 46.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 711,
+        "y": 1124,
+        "width": 31,
+        "height": 45
+      },
+      "char_area": 1160,
+      "confidence": 0.8136050701141357
+    },
+    {
+      "grid_id": 222,
+      "grid_bbox": {
+        "x": 802.0,
+        "y": 823.0,
+        "width": 46.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 810,
+        "y": 828,
+        "width": 40,
+        "height": 42
+      },
+      "char_area": 1529,
+      "confidence": 0.9069744348526001
+    },
+    {
+      "grid_id": 223,
+      "grid_bbox": {
+        "x": 852.0,
+        "y": 444.0,
+        "width": 46.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 858,
+        "y": 456,
+        "width": 44,
+        "height": 43
+      },
+      "char_area": 1652,
+      "confidence": 0.8832110166549683
+    },
+    {
+      "grid_id": 224,
+      "grid_bbox": {
+        "x": 702.0,
+        "y": 894.0,
+        "width": 48.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 709,
+        "y": 903,
+        "width": 36,
+        "height": 46
+      },
+      "char_area": 1492,
+      "confidence": 0.8897669315338135
+    },
+    {
+      "grid_id": 225,
+      "grid_bbox": {
+        "x": 804.0,
+        "y": 969.0,
+        "width": 47.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 808,
+        "y": 975,
+        "width": 45,
+        "height": 46
+      },
+      "char_area": 1588,
+      "confidence": 0.8898798227310181
+    },
+    {
+      "grid_id": 226,
+      "grid_bbox": {
+        "x": 855.0,
+        "y": 894.0,
+        "width": 45.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 862,
+        "y": 901,
+        "width": 38,
+        "height": 45
+      },
+      "char_area": 1541,
+      "confidence": 0.9027787446975708
+    },
+    {
+      "grid_id": 227,
+      "grid_bbox": {
+        "x": 848.0,
+        "y": 295.0,
+        "width": 49.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 851,
+        "y": 295,
+        "width": 48,
+        "height": 49
+      },
+      "char_area": 2371,
+      "confidence": 0.959904134273529
+    },
+    {
+      "grid_id": 228,
+      "grid_bbox": {
+        "x": 646.0,
+        "y": 296.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 647,
+        "y": 296,
+        "width": 47,
+        "height": 49
+      },
+      "char_area": 2370,
+      "confidence": 0.9555269479751587
+    },
+    {
+      "grid_id": 229,
+      "grid_bbox": {
+        "x": 698.0,
+        "y": 296.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 697,
+        "y": 296,
+        "width": 49,
+        "height": 49
+      },
+      "char_area": 2362,
+      "confidence": 0.9540625810623169
+    },
+    {
+      "grid_id": 230,
+      "grid_bbox": {
+        "x": 850.0,
+        "y": 597.0,
+        "width": 49.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 857,
+        "y": 607,
+        "width": 39,
+        "height": 39
+      },
+      "char_area": 1226,
+      "confidence": 0.8786485195159912
+    },
+    {
+      "grid_id": 231,
+      "grid_bbox": {
+        "x": 700.0,
+        "y": 523.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 708,
+        "y": 525,
+        "width": 39,
+        "height": 48
+      },
+      "char_area": 1394,
+      "confidence": 0.905893087387085
+    },
+    {
+      "grid_id": 232,
+      "grid_bbox": {
+        "x": 661.0,
+        "y": 523.0,
+        "width": 36.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 656,
+        "y": 525,
+        "width": 43,
+        "height": 47
+      },
+      "char_area": 1601,
+      "confidence": 0.8762864470481873
+    },
+    {
+      "grid_id": 233,
+      "grid_bbox": {
+        "x": 803.0,
+        "y": 444.0,
+        "width": 43.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 810,
+        "y": 452,
+        "width": 40,
+        "height": 47
+      },
+      "char_area": 1603,
+      "confidence": 0.9272516965866089
+    },
+    {
+      "grid_id": 234,
+      "grid_bbox": {
+        "x": 697.0,
+        "y": 445.0,
+        "width": 27.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 705,
+        "y": 453,
+        "width": 28,
+        "height": 43
+      },
+      "char_area": 820,
+      "confidence": 0.7852562665939331
+    },
+    {
+      "grid_id": 235,
+      "grid_bbox": {
+        "x": 822.0,
+        "y": 798.0,
+        "width": 139.0,
+        "height": 20.0
+      },
+      "char_bbox": {
+        "x": 812,
+        "y": 797,
+        "width": 149,
+        "height": 24
+      },
+      "char_area": 3085,
+      "confidence": 0.6739773750305176
+    },
+    {
+      "grid_id": 236,
+      "grid_bbox": {
+        "x": 905.0,
+        "y": 1046.0,
+        "width": 58.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 912,
+        "y": 1051,
+        "width": 43,
+        "height": 44
+      },
+      "char_area": 1473,
+      "confidence": 0.8648549914360046
+    },
+    {
+      "grid_id": 237,
+      "grid_bbox": {
+        "x": 909.0,
+        "y": 1344.0,
+        "width": 55.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 909,
+        "y": 1344,
+        "width": 56,
+        "height": 49
+      },
+      "char_area": 2753,
+      "confidence": 0.9564691781997681
+    },
+    {
+      "grid_id": 238,
+      "grid_bbox": {
+        "x": 658.0,
+        "y": 1646.0,
+        "width": 45.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 669,
+        "y": 1653,
+        "width": 35,
+        "height": 41
+      },
+      "char_area": 1168,
+      "confidence": 0.8472834825515747
+    },
+    {
+      "grid_id": 239,
+      "grid_bbox": {
+        "x": 859.0,
+        "y": 1046.0,
+        "width": 42.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 865,
+        "y": 1051,
+        "width": 28,
+        "height": 42
+      },
+      "char_area": 874,
+      "confidence": 0.8304394483566284
+    },
+    {
+      "grid_id": 240,
+      "grid_bbox": {
+        "x": 653.0,
+        "y": 1047.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 660,
+        "y": 1057,
+        "width": 39,
+        "height": 40
+      },
+      "char_area": 1289,
+      "confidence": 0.8803534507751465
+    },
+    {
+      "grid_id": 241,
+      "grid_bbox": {
+        "x": 706.0,
+        "y": 1646.0,
+        "width": 49.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 720,
+        "y": 1647,
+        "width": 38,
+        "height": 46
+      },
+      "char_area": 1572,
+      "confidence": 0.852990448474884
+    },
+    {
+      "grid_id": 242,
+      "grid_bbox": {
+        "x": 706.0,
+        "y": 1344.0,
+        "width": 48.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 706,
+        "y": 1345,
+        "width": 47,
+        "height": 49
+      },
+      "char_area": 2376,
+      "confidence": 0.9617593288421631
+    },
+    {
+      "grid_id": 243,
+      "grid_bbox": {
+        "x": 909.0,
+        "y": 1269.0,
+        "width": 55.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 916,
+        "y": 1274,
+        "width": 47,
+        "height": 46
+      },
+      "char_area": 1279,
+      "confidence": 0.7661319971084595
+    },
+    {
+      "grid_id": 244,
+      "grid_bbox": {
+        "x": 654.0,
+        "y": 1270.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 655,
+        "y": 1271,
+        "width": 47,
+        "height": 50
+      },
+      "char_area": 2212,
+      "confidence": 0.8092796802520752
+    },
+    {
+      "grid_id": 245,
+      "grid_bbox": {
+        "x": 655.0,
+        "y": 1344.0,
+        "width": 46.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 656,
+        "y": 1345,
+        "width": 47,
+        "height": 50
+      },
+      "char_area": 2356,
+      "confidence": 0.9584569334983826
+    },
+    {
+      "grid_id": 246,
+      "grid_bbox": {
+        "x": 707.0,
+        "y": 1493.0,
+        "width": 47.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 704,
+        "y": 1497,
+        "width": 51,
+        "height": 46
+      },
+      "char_area": 1798,
+      "confidence": 0.769120991230011
+    },
+    {
+      "grid_id": 247,
+      "grid_bbox": {
+        "x": 912.0,
+        "y": 1718.0,
+        "width": 56.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 920,
+        "y": 1722,
+        "width": 42,
+        "height": 52
+      },
+      "char_area": 1807,
+      "confidence": 0.794752299785614
+    },
+    {
+      "grid_id": 248,
+      "grid_bbox": {
+        "x": 707.0,
+        "y": 1719.0,
+        "width": 48.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 719,
+        "y": 1727,
+        "width": 35,
+        "height": 44
+      },
+      "char_area": 1158,
+      "confidence": 0.7946242094039917
+    },
+    {
+      "grid_id": 249,
+      "grid_bbox": {
+        "x": 754.0,
+        "y": 1047.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 763,
+        "y": 1047,
+        "width": 38,
+        "height": 48
+      },
+      "char_area": 1118,
+      "confidence": 0.837252676486969
+    },
+    {
+      "grid_id": 250,
+      "grid_bbox": {
+        "x": 701.0,
+        "y": 1047.0,
+        "width": 49.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 701,
+        "y": 1045,
+        "width": 52,
+        "height": 51
+      },
+      "char_area": 2514,
+      "confidence": 0.8758111000061035
+    },
+    {
+      "grid_id": 251,
+      "grid_bbox": {
+        "x": 859.0,
+        "y": 1269.0,
+        "width": 45.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 870,
+        "y": 1281,
+        "width": 37,
+        "height": 39
+      },
+      "char_area": 1140,
+      "confidence": 0.791509211063385
+    },
+    {
+      "grid_id": 252,
+      "grid_bbox": {
+        "x": 762.0,
+        "y": 1719.0,
+        "width": 44.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 762,
+        "y": 1717,
+        "width": 45,
+        "height": 51
+      },
+      "char_area": 1708,
+      "confidence": 0.8892010450363159
+    },
+    {
+      "grid_id": 253,
+      "grid_bbox": {
+        "x": 912.0,
+        "y": 1570.0,
+        "width": 54.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 917,
+        "y": 1574,
+        "width": 39,
+        "height": 46
+      },
+      "char_area": 1435,
+      "confidence": 0.8399079442024231
+    },
+    {
+      "grid_id": 254,
+      "grid_bbox": {
+        "x": 708.0,
+        "y": 1571.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 716,
+        "y": 1575,
+        "width": 24,
+        "height": 45
+      },
+      "char_area": 771,
+      "confidence": 0.7840017080307007
+    },
+    {
+      "grid_id": 255,
+      "grid_bbox": {
+        "x": 659.0,
+        "y": 1719.0,
+        "width": 45.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 658,
+        "y": 1719,
+        "width": 53,
+        "height": 53
+      },
+      "char_area": 2632,
+      "confidence": 0.8046113848686218
+    },
+    {
+      "grid_id": 256,
+      "grid_bbox": {
+        "x": 859.0,
+        "y": 1493.0,
+        "width": 47.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 859,
+        "y": 1502,
+        "width": 47,
+        "height": 42
+      },
+      "char_area": 1476,
+      "confidence": 0.861133337020874
+    },
+    {
+      "grid_id": 257,
+      "grid_bbox": {
+        "x": 657.0,
+        "y": 1493.0,
+        "width": 46.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 659,
+        "y": 1503,
+        "width": 48,
+        "height": 41
+      },
+      "char_area": 1624,
+      "confidence": 0.8707830905914307
+    },
+    {
+      "grid_id": 258,
+      "grid_bbox": {
+        "x": 657.0,
+        "y": 1571.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 666,
+        "y": 1577,
+        "width": 36,
+        "height": 44
+      },
+      "char_area": 1183,
+      "confidence": 0.808853268623352
+    },
+    {
+      "grid_id": 259,
+      "grid_bbox": {
+        "x": 904.0,
+        "y": 1645.0,
+        "width": 62.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 909,
+        "y": 1645,
+        "width": 57,
+        "height": 51
+      },
+      "char_area": 2734,
+      "confidence": 0.8586402535438538
+    },
+    {
+      "grid_id": 260,
+      "grid_bbox": {
+        "x": 705.0,
+        "y": 1270.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 711,
+        "y": 1279,
+        "width": 44,
+        "height": 41
+      },
+      "char_area": 1562,
+      "confidence": 0.8512052297592163
+    },
+    {
+      "grid_id": 261,
+      "grid_bbox": {
+        "x": 910.0,
+        "y": 1492.0,
+        "width": 55.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 916,
+        "y": 1492,
+        "width": 38,
+        "height": 52
+      },
+      "char_area": 1666,
+      "confidence": 0.8136516809463501
+    },
+    {
+      "grid_id": 262,
+      "grid_bbox": {
+        "x": 910.0,
+        "y": 1420.0,
+        "width": 55.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 910,
+        "y": 1419,
+        "width": 55,
+        "height": 49
+      },
+      "char_area": 2594,
+      "confidence": 0.9124794006347656
+    },
+    {
+      "grid_id": 263,
+      "grid_bbox": {
+        "x": 859.0,
+        "y": 1344.0,
+        "width": 45.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 859,
+        "y": 1344,
+        "width": 47,
+        "height": 49
+      },
+      "char_area": 2349,
+      "confidence": 0.960405707359314
+    },
+    {
+      "grid_id": 264,
+      "grid_bbox": {
+        "x": 653.0,
+        "y": 1421.0,
+        "width": 50.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 655,
+        "y": 1421,
+        "width": 35,
+        "height": 49
+      },
+      "char_area": 1400,
+      "confidence": 0.8573852777481079
+    },
+    {
+      "grid_id": 265,
+      "grid_bbox": {
+        "x": 708.0,
+        "y": 1420.0,
+        "width": 44.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 713,
+        "y": 1419,
+        "width": 38,
+        "height": 51
+      },
+      "char_area": 1445,
+      "confidence": 0.8701092004776001
+    },
+    {
+      "grid_id": 266,
+      "grid_bbox": {
+        "x": 809.0,
+        "y": 1645.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 820,
+        "y": 1649,
+        "width": 37,
+        "height": 46
+      },
+      "char_area": 1273,
+      "confidence": 0.8850263953208923
+    },
+    {
+      "grid_id": 267,
+      "grid_bbox": {
+        "x": 653.0,
+        "y": 1195.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 654,
+        "y": 1195,
+        "width": 49,
+        "height": 50
+      },
+      "char_area": 2351,
+      "confidence": 0.9015195369720459
+    },
+    {
+      "grid_id": 268,
+      "grid_bbox": {
+        "x": 807.0,
+        "y": 1344.0,
+        "width": 48.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 807,
+        "y": 1345,
+        "width": 49,
+        "height": 48
+      },
+      "char_area": 2384,
+      "confidence": 0.953758716583252
+    },
+    {
+      "grid_id": 269,
+      "grid_bbox": {
+        "x": 757.0,
+        "y": 1344.0,
+        "width": 45.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 757,
+        "y": 1344,
+        "width": 47,
+        "height": 50
+      },
+      "char_area": 2363,
+      "confidence": 0.948959231376648
+    },
+    {
+      "grid_id": 270,
+      "grid_bbox": {
+        "x": 756.0,
+        "y": 1270.0,
+        "width": 48.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 763,
+        "y": 1278,
+        "width": 40,
+        "height": 41
+      },
+      "char_area": 1341,
+      "confidence": 0.8869202733039856
+    },
+    {
+      "grid_id": 271,
+      "grid_bbox": {
+        "x": 758.0,
+        "y": 1493.0,
+        "width": 46.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 761,
+        "y": 1503,
+        "width": 42,
+        "height": 42
+      },
+      "char_area": 1483,
+      "confidence": 0.8599883913993835
+    },
+    {
+      "grid_id": 272,
+      "grid_bbox": {
+        "x": 859.0,
+        "y": 1718.0,
+        "width": 49.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 871,
+        "y": 1723,
+        "width": 34,
+        "height": 50
+      },
+      "char_area": 1296,
+      "confidence": 0.8220915794372559
+    },
+    {
+      "grid_id": 273,
+      "grid_bbox": {
+        "x": 705.0,
+        "y": 1195.0,
+        "width": 45.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 713,
+        "y": 1205,
+        "width": 36,
+        "height": 38
+      },
+      "char_area": 1017,
+      "confidence": 0.8294652104377747
+    },
+    {
+      "grid_id": 274,
+      "grid_bbox": {
+        "x": 805.0,
+        "y": 1047.0,
+        "width": 48.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 796,
+        "y": 1045,
+        "width": 62,
+        "height": 51
+      },
+      "char_area": 2802,
+      "confidence": 0.8948535919189453
+    },
+    {
+      "grid_id": 275,
+      "grid_bbox": {
+        "x": 806.0,
+        "y": 1195.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 813,
+        "y": 1199,
+        "width": 42,
+        "height": 45
+      },
+      "char_area": 1532,
+      "confidence": 0.8892872333526611
+    },
+    {
+      "grid_id": 276,
+      "grid_bbox": {
+        "x": 755.0,
+        "y": 1195.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 760,
+        "y": 1198,
+        "width": 45,
+        "height": 46
+      },
+      "char_area": 1754,
+      "confidence": 0.8587838411331177
+    },
+    {
+      "grid_id": 277,
+      "grid_bbox": {
+        "x": 857.0,
+        "y": 1195.0,
+        "width": 50.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 866,
+        "y": 1199,
+        "width": 44,
+        "height": 45
+      },
+      "char_area": 1514,
+      "confidence": 0.8455628156661987
+    },
+    {
+      "grid_id": 278,
+      "grid_bbox": {
+        "x": 758.0,
+        "y": 1645.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 761,
+        "y": 1645,
+        "width": 47,
+        "height": 49
+      },
+      "char_area": 2098,
+      "confidence": 0.7648931741714478
+    },
+    {
+      "grid_id": 279,
+      "grid_bbox": {
+        "x": 808.0,
+        "y": 1269.0,
+        "width": 46.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 809,
+        "y": 1274,
+        "width": 46,
+        "height": 45
+      },
+      "char_area": 1555,
+      "confidence": 0.8846210241317749
+    },
+    {
+      "grid_id": 280,
+      "grid_bbox": {
+        "x": 757.0,
+        "y": 1421.0,
+        "width": 46.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 768,
+        "y": 1429,
+        "width": 34,
+        "height": 40
+      },
+      "char_area": 786,
+      "confidence": 0.6883512735366821
+    },
+    {
+      "grid_id": 281,
+      "grid_bbox": {
+        "x": 809.0,
+        "y": 1570.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 813,
+        "y": 1572,
+        "width": 43,
+        "height": 47
+      },
+      "char_area": 1557,
+      "confidence": 0.7535721063613892
+    },
+    {
+      "grid_id": 282,
+      "grid_bbox": {
+        "x": 861.0,
+        "y": 1645.0,
+        "width": 41.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 869,
+        "y": 1648,
+        "width": 37,
+        "height": 47
+      },
+      "char_area": 1461,
+      "confidence": 0.8761476278305054
+    },
+    {
+      "grid_id": 283,
+      "grid_bbox": {
+        "x": 924.0,
+        "y": 1195.0,
+        "width": 39.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 921,
+        "y": 1201,
+        "width": 34,
+        "height": 43
+      },
+      "char_area": 1241,
+      "confidence": 0.8632684946060181
+    },
+    {
+      "grid_id": 284,
+      "grid_bbox": {
+        "x": 859.0,
+        "y": 1420.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 866,
+        "y": 1423,
+        "width": 43,
+        "height": 46
+      },
+      "char_area": 1761,
+      "confidence": 0.8683319091796875
+    },
+    {
+      "grid_id": 285,
+      "grid_bbox": {
+        "x": 808.0,
+        "y": 1493.0,
+        "width": 47.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 813,
+        "y": 1503,
+        "width": 41,
+        "height": 41
+      },
+      "char_area": 1351,
+      "confidence": 0.8943424224853516
+    },
+    {
+      "grid_id": 286,
+      "grid_bbox": {
+        "x": 809.0,
+        "y": 1719.0,
+        "width": 48.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 811,
+        "y": 1720,
+        "width": 48,
+        "height": 49
+      },
+      "char_area": 2373,
+      "confidence": 0.9278988838195801
+    },
+    {
+      "grid_id": 287,
+      "grid_bbox": {
+        "x": 808.0,
+        "y": 1719.0,
+        "width": 24.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 806,
+        "y": 1719,
+        "width": 48,
+        "height": 50
+      },
+      "char_area": 1552,
+      "confidence": 0.8240584135055542
+    },
+    {
+      "grid_id": 288,
+      "grid_bbox": {
+        "x": 807.0,
+        "y": 1420.0,
+        "width": 47.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 819,
+        "y": 1427,
+        "width": 34,
+        "height": 41
+      },
+      "char_area": 704,
+      "confidence": 0.7372887134552002
+    },
+    {
+      "grid_id": 289,
+      "grid_bbox": {
+        "x": 863.0,
+        "y": 1170.0,
+        "width": 101.0,
+        "height": 20.0
+      },
+      "char_bbox": {
+        "x": 861,
+        "y": 1169,
+        "width": 103,
+        "height": 28
+      },
+      "char_area": 2321,
+      "confidence": 0.7537094354629517
+    },
+    {
+      "grid_id": 290,
+      "grid_bbox": {
+        "x": 338.0,
+        "y": 1123.0,
+        "width": 47.0,
+        "height": 44.0
+      },
+      "char_bbox": {
+        "x": 339,
+        "y": 1127,
+        "width": 43,
+        "height": 45
+      },
+      "char_area": 1370,
+      "confidence": 0.8502452373504639
+    },
+    {
+      "grid_id": 291,
+      "grid_bbox": {
+        "x": 803.0,
+        "y": 748.0,
+        "width": 47.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 803,
+        "y": 756,
+        "width": 46,
+        "height": 43
+      },
+      "char_area": 1616,
+      "confidence": 0.8960230350494385
+    },
+    {
+      "grid_id": 292,
+      "grid_bbox": {
+        "x": 439.0,
+        "y": 749.0,
+        "width": 44.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 439,
+        "y": 749,
+        "width": 47,
+        "height": 49
+      },
+      "char_area": 2120,
+      "confidence": 0.8810811042785645
+    },
+    {
+      "grid_id": 293,
+      "grid_bbox": {
+        "x": 488.0,
+        "y": 1123.0,
+        "width": 56.0,
+        "height": 43.0
+      },
+      "char_bbox": {
+        "x": 490,
+        "y": 1121,
+        "width": 59,
+        "height": 49
+      },
+      "char_area": 2770,
+      "confidence": 0.9245100021362305
+    },
+    {
+      "grid_id": 294,
+      "grid_bbox": {
+        "x": 489.0,
+        "y": 749.0,
+        "width": 54.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 500,
+        "y": 754,
+        "width": 38,
+        "height": 45
+      },
+      "char_area": 1369,
+      "confidence": 0.8828126788139343
+    },
+    {
+      "grid_id": 295,
+      "grid_bbox": {
+        "x": 290.0,
+        "y": 1123.0,
+        "width": 44.0,
+        "height": 45.0
+      },
+      "char_bbox": {
+        "x": 297,
+        "y": 1128,
+        "width": 30,
+        "height": 44
+      },
+      "char_area": 1122,
+      "confidence": 0.8996394276618958
+    },
+    {
+      "grid_id": 296,
+      "grid_bbox": {
+        "x": 134.0,
+        "y": 752.0,
+        "width": 46.0,
+        "height": 45.0
+      },
+      "char_bbox": {
+        "x": 135,
+        "y": 750,
+        "width": 46,
+        "height": 49
+      },
+      "char_area": 2217,
+      "confidence": 0.939933180809021
+    },
+    {
+      "grid_id": 297,
+      "grid_bbox": {
+        "x": 702.0,
+        "y": 749.0,
+        "width": 44.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 703,
+        "y": 752,
+        "width": 40,
+        "height": 45
+      },
+      "char_area": 1069,
+      "confidence": 0.8341829776763916
+    },
+    {
+      "grid_id": 298,
+      "grid_bbox": {
+        "x": 603.0,
+        "y": 1123.0,
+        "width": 47.0,
+        "height": 43.0
+      },
+      "char_bbox": {
+        "x": 608,
+        "y": 1132,
+        "width": 42,
+        "height": 37
+      },
+      "char_area": 1428,
+      "confidence": 0.8786681890487671
+    },
+    {
+      "grid_id": 299,
+      "grid_bbox": {
+        "x": 600.0,
+        "y": 750.0,
+        "width": 45.0,
+        "height": 45.0
+      },
+      "char_bbox": {
+        "x": 609,
+        "y": 754,
+        "width": 32,
+        "height": 44
+      },
+      "char_area": 1140,
+      "confidence": 0.8760318160057068
+    },
+    {
+      "grid_id": 300,
+      "grid_bbox": {
+        "x": 650.0,
+        "y": 747.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 652,
+        "y": 754,
+        "width": 39,
+        "height": 45
+      },
+      "char_area": 1391,
+      "confidence": 0.8631938695907593
+    },
+    {
+      "grid_id": 301,
+      "grid_bbox": {
+        "x": 386.0,
+        "y": 751.0,
+        "width": 50.0,
+        "height": 45.0
+      },
+      "char_bbox": {
+        "x": 388,
+        "y": 757,
+        "width": 49,
+        "height": 41
+      },
+      "char_area": 1690,
+      "confidence": 0.8975882530212402
+    },
+    {
+      "grid_id": 302,
+      "grid_bbox": {
+        "x": 750.0,
+        "y": 749.0,
+        "width": 47.0,
+        "height": 45.0
+      },
+      "char_bbox": {
+        "x": 755,
+        "y": 754,
+        "width": 40,
+        "height": 42
+      },
+      "char_area": 1360,
+      "confidence": 0.8882449865341187
+    },
+    {
+      "grid_id": 303,
+      "grid_bbox": {
+        "x": 853.0,
+        "y": 747.0,
+        "width": 48.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 861,
+        "y": 751,
+        "width": 44,
+        "height": 46
+      },
+      "char_area": 1631,
+      "confidence": 0.8804079294204712
+    },
+    {
+      "grid_id": 304,
+      "grid_bbox": {
+        "x": 182.0,
+        "y": 752.0,
+        "width": 50.0,
+        "height": 45.0
+      },
+      "char_bbox": {
+        "x": 183,
+        "y": 751,
+        "width": 48,
+        "height": 47
+      },
+      "char_area": 2296,
+      "confidence": 0.9471989274024963
+    },
+    {
+      "grid_id": 305,
+      "grid_bbox": {
+        "x": 551.0,
+        "y": 750.0,
+        "width": 43.0,
+        "height": 45.0
+      },
+      "char_bbox": {
+        "x": 550,
+        "y": 752,
+        "width": 48,
+        "height": 45
+      },
+      "char_area": 1675,
+      "confidence": 0.893973708152771
+    },
+    {
+      "grid_id": 306,
+      "grid_bbox": {
+        "x": 906.0,
+        "y": 748.0,
+        "width": 53.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 911,
+        "y": 751,
+        "width": 42,
+        "height": 47
+      },
+      "char_area": 1524,
+      "confidence": 0.8583377599716187
+    },
+    {
+      "grid_id": 307,
+      "grid_bbox": {
+        "x": 338.0,
+        "y": 751.0,
+        "width": 45.0,
+        "height": 45.0
+      },
+      "char_bbox": {
+        "x": 344,
+        "y": 754,
+        "width": 38,
+        "height": 45
+      },
+      "char_area": 1492,
+      "confidence": 0.9019696712493896
+    },
+    {
+      "grid_id": 308,
+      "grid_bbox": {
+        "x": 549.0,
+        "y": 1122.0,
+        "width": 47.0,
+        "height": 45.0
+      },
+      "char_bbox": {
+        "x": 559,
+        "y": 1127,
+        "width": 41,
+        "height": 42
+      },
+      "char_area": 1399,
+      "confidence": 0.8949288725852966
+    },
+    {
+      "grid_id": 309,
+      "grid_bbox": {
+        "x": 401.0,
+        "y": 1720.0,
+        "width": 91.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 383,
+        "y": 1720,
+        "width": 121,
+        "height": 54
+      },
+      "char_area": 5521,
+      "confidence": 0.7754563689231873
+    },
+    {
+      "grid_id": 310,
+      "grid_bbox": {
+        "x": 441.0,
+        "y": 1122.0,
+        "width": 44.0,
+        "height": 45.0
+      },
+      "char_bbox": {
+        "x": 455,
+        "y": 1135,
+        "width": 24,
+        "height": 36
+      },
+      "char_area": 620,
+      "confidence": 0.7333502769470215
+    },
+    {
+      "grid_id": 311,
+      "grid_bbox": {
+        "x": 494.0,
+        "y": 1647.0,
+        "width": 57.0,
+        "height": 46.0
+      },
+      "char_bbox": {
+        "x": 510,
+        "y": 1655,
+        "width": 36,
+        "height": 41
+      },
+      "char_area": 1213,
+      "confidence": 0.7728140354156494
+    },
+    {
+      "grid_id": 312,
+      "grid_bbox": {
+        "x": 606.0,
+        "y": 1196.0,
+        "width": 94.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 603,
+        "y": 1195,
+        "width": 101,
+        "height": 51
+      },
+      "char_area": 4734,
+      "confidence": 0.8055076599121094
+    },
+    {
+      "grid_id": 313,
+      "grid_bbox": {
+        "x": 230.0,
+        "y": 371.0,
+        "width": 96.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 228,
+        "y": 373,
+        "width": 108,
+        "height": 51
+      },
+      "char_area": 4973,
+      "confidence": 0.7147731781005859
+    },
+    {
+      "grid_id": 314,
+      "grid_bbox": {
+        "x": 356.0,
+        "y": 1424.0,
+        "width": 31.0,
+        "height": 45.0
+      },
+      "char_bbox": {
+        "x": 352,
+        "y": 1427,
+        "width": 31,
+        "height": 43
+      },
+      "char_area": 1032,
+      "confidence": 0.8495503664016724
+    },
+    {
+      "grid_id": 315,
+      "grid_bbox": {
+        "x": 335.0,
+        "y": 373.0,
+        "width": 31.0,
+        "height": 47.0
+      },
+      "char_bbox": {
+        "x": 333,
+        "y": 380,
+        "width": 38,
+        "height": 43
+      },
+      "char_area": 1423,
+      "confidence": 0.8695644736289978
+    },
+    {
+      "grid_id": 316,
+      "grid_bbox": {
+        "x": 345.0,
+        "y": 1421.0,
+        "width": 45.0,
+        "height": 49.0
+      },
+      "char_bbox": {
+        "x": 350,
+        "y": 1425,
+        "width": 36,
+        "height": 46
+      },
+      "char_area": 1454,
+      "confidence": 0.8517131805419922
+    },
+    {
+      "grid_id": 317,
+      "grid_bbox": {
+        "x": 193.0,
+        "y": 600.0,
+        "width": 38.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 190,
+        "y": 605,
+        "width": 43,
+        "height": 46
+      },
+      "char_area": 1668,
+      "confidence": 0.8755271434783936
+    },
+    {
+      "grid_id": 318,
+      "grid_bbox": {
+        "x": 183.0,
+        "y": 525.0,
+        "width": 46.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 194,
+        "y": 531,
+        "width": 38,
+        "height": 42
+      },
+      "char_area": 1355,
+      "confidence": 0.8470133543014526
+    },
+    {
+      "grid_id": 319,
+      "grid_bbox": {
+        "x": 333.0,
+        "y": 371.0,
+        "width": 46.0,
+        "height": 50.0
+      },
+      "char_bbox": {
+        "x": 332,
+        "y": 378,
+        "width": 41,
+        "height": 45
+      },
+      "char_area": 1592,
+      "confidence": 0.8692841529846191
+    },
+    {
+      "grid_id": 320,
+      "grid_bbox": {
+        "x": 134.0,
+        "y": 800.0,
+        "width": 148.0,
+        "height": 21.0
+      },
+      "char_bbox": {
+        "x": 134,
+        "y": 800,
+        "width": 151,
+        "height": 23
+      },
+      "char_area": 3070,
+      "confidence": 0.6833901405334473
+    },
+    {
+      "grid_id": 321,
+      "grid_bbox": {
+        "x": 239.0,
+        "y": 1720.0,
+        "width": 51.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 242,
+        "y": 1731,
+        "width": 44,
+        "height": 40
+      },
+      "char_area": 1554,
+      "confidence": 0.8683621883392334
+    },
+    {
+      "grid_id": 322,
+      "grid_bbox": {
+        "x": 861.0,
+        "y": 1571.0,
+        "width": 35.0,
+        "height": 45.0
+      },
+      "char_bbox": {
+        "x": 865,
+        "y": 1576,
+        "width": 38,
+        "height": 43
+      },
+      "char_area": 1286,
+      "confidence": 0.8603793382644653
+    },
+    {
+      "grid_id": 323,
+      "grid_bbox": {
+        "x": 651.0,
+        "y": 1195.0,
+        "width": 96.0,
+        "height": 48.0
+      },
+      "char_bbox": {
+        "x": 651,
+        "y": 1194,
+        "width": 101,
+        "height": 52
+      },
+      "char_area": 4748,
+      "confidence": 0.79120934009552
+    },
+    {
+      "grid_id": 324,
+      "grid_bbox": {
+        "x": 139.0,
+        "y": 1420.0,
+        "width": 95.0,
+        "height": 51.0
+      },
+      "char_bbox": {
+        "x": 139,
+        "y": 1421,
+        "width": 100,
+        "height": 51
+      },
+      "char_area": 4997,
+      "confidence": 0.8728634119033813
+    }
+  ]
+}
